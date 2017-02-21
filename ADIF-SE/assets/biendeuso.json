@@ -1,0 +1,93 @@
+{
+    "meta": {
+        "type": "meta",
+        "name": "Relevamiento de Bienes de Uso" 
+    },
+    "Corredor": {
+        "type": "string",
+        "id": "0",
+        "default": "",
+        "priority": "0"
+    },
+    "Fecha": {
+        "type": "date",
+        "id": "1",
+        "default": "",
+        "priority": "1",
+        "hint":"Ejemplo: 30/09/2015"
+    },
+    "Progresiva": {
+        "type": "string",
+        "id": "2",
+        "default": "",
+        "priority": "2" 
+    },
+    "Estaci\u00F3n": {
+        "type": "string",
+        "id": "3",
+        "default": "",
+        "priority": "3"
+    },
+    "N\u00B0_de_censo": {
+        "type": "integer",
+        "id": "4",
+        "default": "",
+        "priority": "4"
+    },
+     "Denominaci\u00F3n_del_bien": {
+        "type": "string",
+        "id": "6",
+        "default": "",
+        "priority": "6"
+    },
+    "Estado": {
+        "type": "string",
+        "id": "7",
+        "default": "",
+        "priority": "7",
+        "options": {
+            "Muy bueno": "Muy bueno",
+            "Bueno": "Bueno",
+            "Regular": "Regular",
+            "Malo": "Malo"
+        }
+    },
+    "Unidad_de_medida": {
+        "type": "string",
+        "id": "8",
+        "default": "",
+        "priority": "8"
+    },
+   "Cantidad": {
+        "type": "integer",
+        "id": "9",
+        "default": "",
+        "priority": "9"
+    },
+     "Observaciones/motivo": {
+        "type": "string",
+        "id": "10",
+        "default": "",
+        "priority": "10"
+    },
+    "Geolocalizaci\u00F3n manual": {
+        "type": "label",
+        "id": "11",
+        "default": "",
+        "priority": "11"
+    },
+    "Latitud": {
+        "type": "string",
+        "id": "12",
+        "default": "",
+        "hint":"Ejemplo: -34.906374",
+        "priority": "12"
+    },
+    "Longitud": {
+        "type": "string",
+        "id": "13",
+        "default": "",
+        "hint":"Ejemplo: -57.944184",
+        "priority": "13"
+    }
+}

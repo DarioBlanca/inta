@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources>
+    <string name="app_name">INTA Demo</string>
+    <string name="action_settings"/>
+    <string name="usuario">Usuario</string>
+    <string name="contras">Contraseña</string>
+    <string name="entrar">Entrar</string>
+    <string name="title_activity_operation_list">INTA Demo</string>
+    <string name="title_activity_camera">Agregar imagenes</string>
+    <string name="title_activity_registro">Registro</string>
+    <string name="title_activity_revisar_consulta">Revisando consulta...</string>
+    <string name="title_activity_galeria">Galeria</string>
+    <string name="title_activity_realizando">Realizando consulta...</string>
+    <string name="fotosListo">Listo</string>
+</resources>

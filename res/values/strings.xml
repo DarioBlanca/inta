@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Relevamientos Belgrano Carga</string>
+    <string name="action_settings"></string>
+    <string name="usuario">Usuario</string>
+    <string name="contras">Contraseña</string>
+    <string name="entrar">Entrar</string>
+    <string name="title_activity_operation_list">Listado de operaciones</string>
+    <string name="title_activity_camera">Captura de imágenes</string>
+
+</resources>

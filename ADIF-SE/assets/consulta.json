@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "type": "meta",
+        "name": "Ingrese su consulta" 
+    },
+    "Su consulta sera derivada a un tecnico": {
+    	"type": "label",
+    	"id": "0",
+    	"default": "",
+    	"priority": "0" 
+    },
+    "Asunto": {
+        "type": "string",
+        "id": "1",
+        "default": "",
+        "priority": "1"
+    },
+    "Descripcion": {
+        "type": "string",
+        "id": "2",
+        "default": "",
+        "priority": "2",
+        "hint":"Ingrese la descripcion su problema"
+    }
+}
